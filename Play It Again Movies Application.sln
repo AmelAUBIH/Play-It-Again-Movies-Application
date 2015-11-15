@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Play It Again Movies Application", "Play It Again Movies Application\Play It Again Movies Application.vbproj", "{FF41DE7B-03F1-4228-96DD-F1B6A30A68B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF41DE7B-03F1-4228-96DD-F1B6A30A68B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF41DE7B-03F1-4228-96DD-F1B6A30A68B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF41DE7B-03F1-4228-96DD-F1B6A30A68B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF41DE7B-03F1-4228-96DD-F1B6A30A68B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

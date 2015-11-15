@@ -1,0 +1,11 @@
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\bin\Debug\Play It Again Movies Application.exe.config
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\obj\Debug\Play It Again Movies Application.vbprojResolveAssemblyReference.cache
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\obj\Debug\Play_It_Again_Movies_Application.Form1.resources
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\obj\Debug\Play_It_Again_Movies_Application.Resources.resources
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\obj\Debug\Play It Again Movies Application.vbproj.GenerateResource.Cache
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\obj\Debug\Play It Again Movies Application.xml
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\bin\Debug\Play It Again Movies Application.exe
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\bin\Debug\Play It Again Movies Application.pdb
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\bin\Debug\Play It Again Movies Application.xml
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\obj\Debug\Play It Again Movies Application.exe
+D:\Visual Programming\Play It Again Movies Application\Play It Again Movies Application\obj\Debug\Play It Again Movies Application.pdb
